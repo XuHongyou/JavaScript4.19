@@ -1,0 +1,22 @@
+body {
+	background-color:#d0e4fe;
+}
+
+h1 {font-size:50px;}
+
+p.margin
+{
+	margin:50px 50px;
+}
+h2{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
